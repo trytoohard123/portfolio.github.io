@@ -333,7 +333,7 @@ nav li a:hover{
     .prev, .next,.text {font-size: 11px}
   }
   .slideshow-container:has(.workslink1:hover){
-    background-image: url('portfolio.github.io/images/bai1b1.png');
+    background-image: url('https://raw.githubusercontent.com/trytoohard123/portfolio.github.io/main/images/bai1b1.png');
 
   }
   .slideshow-container:has(.workslink2:hover){
